@@ -236,5 +236,6 @@ Click [here](https://heal-smart.vercel.app/) to visit the web app directly.
 
 
 - Link to Dataset: https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning
-#   M e d i b o t _ A I - A s s i s t a n c e  
+#   M e d i b o t _ A I - A s s i s t a n c e 
+ 
  
