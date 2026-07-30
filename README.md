@@ -77,7 +77,7 @@ Personalized healthcare recommendations, empathetic mental health support, and s
 
 <div align="center">
   <a href="https://github.com/0912shivam/Heal-Smart-AI-Assistance/blob/main/screenshots/hero.png">
-    <img src="https://github.com/0912shivam/Heal-Smart-AI-Assistance/raw/main/screenshots/hero.png" alt="Key Features" width="800"/>
+    <img src="https://github.com/0912shivam/Heal-Smart-AI-Assistance/raw/main/screenshots/hero.png" alt="Key Features" width="400"/>
   </a>
 </div>
 
