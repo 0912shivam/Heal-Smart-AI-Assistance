@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://heal-smart.vercel.app/">
-  <img src="https://github.com/0912shivam/Heal-Smart-AI-Assistance/raw/main/screenshots/logo.png" alt="HealSmart Logo" width="140"/>
+  <img src="https://github.com/0912shivam/Heal-Smart-AI-Assistance/raw/main/screenshots/logo.png" alt="HealSmart Logo" width="340"/>
 </a>
 
 # HealSmart
